@@ -3,7 +3,7 @@
 POWERBI samples
 
 DATA PREPARATION
-- coming soon
+- CryptoAnalysis.pbix
 
 DATA MODELING
 - coming soon
